@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "64f22a19-d730-4327-8ca1-c3dffdbb9e3d"
+      }
+    },
+    "android": {
+      "package": "snipessystems.nexus"
+    },
+    "ios": {
+      "bundleIdentifier": "snipessystems.nexus",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
